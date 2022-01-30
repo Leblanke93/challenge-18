@@ -2,7 +2,7 @@
 
 # Technologies
 
-#Imported library needed for this project
+###Imported library needed for this project
  import streamlit as st
  from dataclasses import dataclass
  from typing import Any, List
